@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️ Special Android x32 LiveCD for all versions of Android x32 from 3.0 to 3.0
